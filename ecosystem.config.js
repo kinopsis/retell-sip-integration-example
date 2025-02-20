@@ -15,7 +15,7 @@ module.exports = {
       JAMBONZ_ACCOUNT_SID: 'your_account_sid',
       JAMBONZ_API_KEY: 'your_api_key',
       JAMBONZ_REST_API_BASE_URL: 'https://jambonz.cloud/api/v1', // or replace with your own self-hosted jambonz URL
-      RETELL_API_KEY: 'your_retell_api_key',
+      RETELL_API_KEY: 'key_3c059fcc3f5ab307a4a896a86176',
       RETELL_AGENT_ID: 'your_retell_agent_id'
     }
   }]
