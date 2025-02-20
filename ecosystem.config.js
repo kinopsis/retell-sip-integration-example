@@ -16,7 +16,7 @@ module.exports = {
       JAMBONZ_API_KEY: '3875184a-4b3f-45d4-a0c4-d4ac81426f26',
       JAMBONZ_REST_API_BASE_URL: 'https://jambonz.cloud/api/v1', // or replace with your own self-hosted jambonz URL
       RETELL_API_KEY: 'key_3c059fcc3f5ab307a4a896a86176',
-      RETELL_AGENT_ID: 'agent_22d39d3b6b76a2ffbb7e630b3a'
+      RETELL_AGENT_ID: ''
     }
   }]
 };
