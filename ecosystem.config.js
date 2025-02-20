@@ -12,11 +12,11 @@ module.exports = {
       NODE_ENV: 'production',
       LOGLEVEL: 'info',
       HTTP_PORT: 3000,
-      JAMBONZ_ACCOUNT_SID: 'your_account_sid',
-      JAMBONZ_API_KEY: 'your_api_key',
+      JAMBONZ_ACCOUNT_SID: '740a6135-55ac-46d5-b14c-c87b95b71c9d',
+      JAMBONZ_API_KEY: '3875184a-4b3f-45d4-a0c4-d4ac81426f26',
       JAMBONZ_REST_API_BASE_URL: 'https://jambonz.cloud/api/v1', // or replace with your own self-hosted jambonz URL
       RETELL_API_KEY: 'key_3c059fcc3f5ab307a4a896a86176',
-      RETELL_AGENT_ID: 'your_retell_agent_id'
+      RETELL_AGENT_ID: 'agent_22d39d3b6b76a2ffbb7e630b3a'
     }
   }]
 };
